@@ -1,0 +1,12 @@
+{
+  "name": "expense-dashboard",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@headlessui/react": "^1.7.9",
+    "recharts": "^2.5.0",
+    "lucide-react": "^0.200.0"
+  }
+}
